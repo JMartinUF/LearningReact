@@ -26,3 +26,17 @@ To run any of the projects in this repository, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/learning-react.git
+2. **Navigate to the Project Directory:
+   ```bash
+   npm install
+3. Install Dependencies:
+   ```bash
+   npm install
+4. Run the Application:
+   ```bash
+   npm start
+
+## Contributions
+
+While this repository primarily serves as my personal learning space, I welcome suggestions, improvements, and discussions. Feel free to open an issue or submit a pull request.
+
